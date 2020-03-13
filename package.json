@@ -1,9 +1,14 @@
 {
   "name": "date-command",
   "main": "./lib/date-command",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Type /date convert to date string",
-  "keywords": ["inkdrop", "command", "date", "time"],
+  "keywords": [
+    "inkdrop",
+    "command",
+    "date",
+    "time"
+  ],
   "repository": "https://github.com/nof/inkdrop-date-command",
   "license": "MIT",
   "engines": {
