@@ -23,7 +23,6 @@ Type `/date` and `Space` in Editor
 # Settings
 
 - Inkdrop -> Preferences -> Plugins -> date command
-- ![Support format](https://date-fns.org/v2.10.0/docs/format)
+- [Support format](https://date-fns.org/v2.10.0/docs/format)
 
-![settings](https://github.com/nof/inkdrop-date-command/blob/master/.github/settings.gif?raw=true)
-
+![settings](https://github.com/nof/inkdrop-date-command/blob/master/.github/settings.png?raw=true)
