@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle date-command",
+        "command": "date-command:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "date-command",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "date-command:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "date-command",
+  "main": "./lib/date-command",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/date-command",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {
+    "date-fns": "^2.10.0"
+  }
+}
