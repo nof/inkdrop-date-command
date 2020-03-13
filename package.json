@@ -1,7 +1,7 @@
 {
   "name": "date-command",
   "main": "./lib/date-command",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Type /date convert to date string",
   "keywords": [
     "inkdrop",
